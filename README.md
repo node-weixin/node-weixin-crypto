@@ -16,7 +16,7 @@ nodeWeixinCrypto('Rainbow');
 ```
 ## License
 
-MIT © [calidion](blog.3gcnbeta.com)
+Apache-2.0 © [calidion](calidion.github.io)
 
 
 [npm-image]: https://badge.fury.io/js/node-weixin-crypto.svg
